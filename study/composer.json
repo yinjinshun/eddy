@@ -1,0 +1,22 @@
+{
+	"name":"eddy/study",
+	"description":"this is a study package",
+	"keywords":["study","eddy"],
+	"homepage":"https://github.com/yinjinshun/eddy",
+	"license":"MIT"
+	"require":{
+		"php":"^5.6.13 || ^7.0"
+		"study":"1.0.0"
+	},
+	"autoload": {
+      "psr-4": { "Loading\\": "" }
+    }
+	"authors": [
+      {
+        "name": "eddy",
+        "email": "109491490@qq.com",
+        "homepage": "https://github.com/yinjinshun/eddy",
+        "role": "Developer"
+      }
+    ],
+}
